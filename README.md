@@ -3,7 +3,7 @@
 
 - A self-taught back-end and Machine/Deep learning developer
 - Former Theoretical Physics Researcher
-- Currently learning of back-end and Machine learing framework
-- Personal website [link](www.sukrakarn-sci.com)
+- Currently learning of back-end and Machine learning framework
+- Personal website [link](http://www.sukrakarn-sci.com)
 
 <br><br>
