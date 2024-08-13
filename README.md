@@ -1,9 +1,8 @@
 ##  **About me**
 <br>
 
-- A self-taught back-end and Machine/Deep learning developer
-- Former Theoretical Physics Researcher
-- Currently learning of back-end and Machine learning framework
+- Former theoretical physicist in Anti-de Sitter/Conformal field theory correspondence (AdS/CFT correspondence)
+- Currently learning back-end and ML/DL to apply in businesses
 - Personal website [link](http://www.sukrakarn-sci.com)
 
 <br><br>
