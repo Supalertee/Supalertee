@@ -2,7 +2,7 @@
 <br>
 
 - Former theoretical physicist in Anti-de Sitter/Conformal field theory correspondence (AdS/CFT correspondence)
-- Currently learning back-end and ML/DL to apply in businesses
+- Currently learning back-end, computer-vision, and ML/DL to apply to businesses
 - Personal website [link](http://www.sukrakarn-sci.com)
 
 <br><br>
@@ -32,8 +32,9 @@
 
 <br>
 
-- **ML/DL Tools
+- **Computer-vision/ML/DL Tools**:
 -
+  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
