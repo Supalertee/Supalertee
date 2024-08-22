@@ -3,7 +3,7 @@
 
 - Former theoretical physicist in Anti-de Sitter/Conformal field theory correspondence (AdS/CFT correspondence)
 - Currently learning back-end, computer-vision, and ML/DL to apply to businesses
-- Personal website [link](http://www.sukrakarn-sci.com)
+- Personal website: [link](http://www.sukrakarn-sci.com)
 
 <br>
 
