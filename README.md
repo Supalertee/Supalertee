@@ -7,8 +7,9 @@ and **full-stack SaaS infrastructures** that bridge scientific research and real
 
 *Selected Publication:*  
 _Sukrakarn S., Yuk T., Sin S-J._ “Mean field theory for strongly coupled systems: Holographic approach.”  
-*Journal of High Energy Physics (JHEP)*, 2024, Article 100. DOI: https://doi.org/10.1007/JHEP06(2024)100  :contentReference[oaicite:0]{index=0}
+*Journal of High Energy Physics (JHEP)*, 2024, Article 100. 
 
+DOI: https://doi.org/10.1007/JHEP06(2024)100  
 **Personal website:** www.sukrakarn-sci.com  
 <br>
 
