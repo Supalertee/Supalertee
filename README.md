@@ -23,12 +23,10 @@ and **full-stack SaaS infrastructures** that bridge scientific research and real
 
 # **Skills**
 
-<p align="center">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26">
 <b>  Languages </b>
-</p>
 
-### 🧩 Programming
+### Programming
 ![Python](https://img.shields.io/badge/Python%20-14354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -41,9 +39,9 @@ and **full-stack SaaS infrastructures** that bridge scientific research and real
 
 ---
 
-# 🖥️ **Back-End, DevOps & SaaS Architecture**
+# **Back-End, DevOps & SaaS Architecture**
 
-### 🚀 Platforms & Tools  
+### Platforms & Tools  
 ![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker--Compose-1d63ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy%20Proxy-0A9EDC?style=for-the-badge&logo=caddy&logoColor=white)
@@ -69,7 +67,7 @@ and **full-stack SaaS infrastructures** that bridge scientific research and real
 
 ---
 
-# 🔬 **Machine Learning, Deep Learning & Computer Vision**
+# **Machine Learning, Deep Learning & Computer Vision**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -79,7 +77,6 @@ and **full-stack SaaS infrastructures** that bridge scientific research and real
 
 ---
 
-# **New Skills (2025)**  
 ### **Quantum / Hybrid ML**
 - Design of QNN/QML circuits (6-qubit → 15-qubit)  
 - Mid-circuit measurement + reset  
