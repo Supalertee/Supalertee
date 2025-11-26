@@ -15,7 +15,7 @@ DOI: https://doi.org/10.1007/JHEP06(2024)100
 
 ---
 
-## 🧠 **Core Background**
+## **Core Background**
 
 - Former researcher in **AdS/CFT correspondence**, quantum matter, and dark matter physics  
 - Currently a **Quantum ML Engineer**, **(Q)MLOps Developer**, and **Platform Engineer**  
@@ -26,12 +26,8 @@ DOI: https://doi.org/10.1007/JHEP06(2024)100
 
 ---
 
-# **Skills**
+# **Programming Skills** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26">
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26">
-<b>  Languages </b>
-
-### Programming
 ![Python](https://img.shields.io/badge/Python%20-14354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,7 +35,6 @@ DOI: https://doi.org/10.1007/JHEP06(2024)100
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
 <br>
 
 ---
@@ -80,7 +75,14 @@ DOI: https://doi.org/10.1007/JHEP06(2024)100
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
+### **Quantum ML / Quantum Frameworks**
+
+![PennyLane](https://img.shields.io/badge/PennyLane-ff007a?style=for-the-badge&logo=pennylane&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![OpenQASM](https://img.shields.io/badge/OpenQASM-000000?style=for-the-badge&logo=quantconnect&logoColor=white)
+
 ---
+
 
 ### **Quantum / Hybrid ML**
 - Design of QNN/QML circuits (6-qubit → 15-qubit)  
