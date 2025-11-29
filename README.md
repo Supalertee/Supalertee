@@ -2,8 +2,8 @@
 
 I’m a former **theoretical physicist** specializing in  
 **Anti-de Sitter / Conformal Field Theory (AdS/CFT)** and holographic fermions.  
-Now I build **Quantum Machine Learning systems**, **high-performance backend platforms**,  
-and **full-stack SaaS infrastructures** that bridge scientific research and real-world products.
+Now I am working for a start-up company, building **Quantum Machine Learning systems**, **high-performance backend platforms**,  
+and **full-stack SaaS infrastructures** that bridge promising **quantum research** and real-world products.
 
 *Selected Publication:*  
 _Sukrakarn S., Yuk T., Sin S-J._ “Mean field theory for strongly coupled systems: Holographic approach.”  
@@ -85,23 +85,24 @@ DOI: https://doi.org/10.1007/JHEP06(2024)100
 
 
 ### **Quantum / Hybrid ML**
-- Design of QNN/QML circuits (6-qubit → 15-qubit)  
-- Mid-circuit measurement + reset  
+- Design of QNN/QML circuits (2-qubit → 20-qubit)  
+- Mid-circuit measurement + reset pipeline (runnable on IBM's QPUs)
 - Tree traversal vs analytic simulators  
 - Quantum-enhanced multimodal networks  
 - Gradient-based QML training  
 - Reproducing research architectures (PR Applied, arXiv)
+- 
 
-### **Federated Learning**
-- Flower FL (server + multi-client)  
-- Client orchestration (8081/8083/8085)  
-- Real-time metrics dashboards (Chart.js + websockets)  
+### **Quantum Federated Learning**
+- Flower (Q)FL (server + multi-client)
+- Clients orchestration
+- Real-time metrics dashboards (Chart.js)  
 - Secure client/server communication  
 
 ### **Binary Packaging & Licensing**
 - PyInstaller (onefile/onedir)  
-- Machine-fingerprint license validation  
-- Encrypted model weights (.anzaetek)  
+- License validated executable CLIs
+- Encrypted model weights/ license bound
 - Vendor public/private key signing
 
 ### **Clinical / Finance Data Engineering**
